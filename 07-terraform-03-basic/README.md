@@ -37,3 +37,15 @@ dynamodb.
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
 
 ---
+
+https://mitogen.networkgenomics.com/ansible_detailed.html
+
+https://www.terraform.io/cli/config/environment-variables
+
+YC_TOKEN
+
+export TF_VAR_yc_token
+
+TF_VAR
+
+
